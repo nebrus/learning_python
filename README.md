@@ -1,2 +1,2 @@
-# learning_python
-Изучение Python
+# Питон для гуманитариев
+Мое изучение Python
